@@ -1,4 +1,4 @@
-# GPT-2 Chatbot  Project
+# GPT-2 Chatbot  Project 🤖
 
 ## Overview
 This project is a **GPT-2 based chatbot** built using the Hugging Face `transformers` library and the `Gradio` framework. It allows users to interact with a GPT-2 model in a chat-like interface. The app includes features like customizable response length.
