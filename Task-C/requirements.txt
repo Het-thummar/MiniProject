@@ -1,0 +1,2 @@
+streamlit==1.43.2
+pyautogui==0.9.54
