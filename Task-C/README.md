@@ -1,4 +1,4 @@
-# Desktop Automation 🤖
+# Desktop Automation
 
 ## Overview
 A simple **desktop automation tool** built with `Streamlit` and `PyAutoGUI`.That allowing users to automate basic tasks such as mouse movement, clicks, typing text, screenshots and drag-and-drop actions.
